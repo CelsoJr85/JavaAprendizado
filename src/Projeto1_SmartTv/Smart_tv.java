@@ -1,4 +1,4 @@
-package Projeto01;
+package Projeto1_SmartTv;
 
 public class Smart_tv {
     boolean ligado = false;
