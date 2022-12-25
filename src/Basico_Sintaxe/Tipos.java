@@ -1,3 +1,4 @@
+package Basico_Sintaxe;
 
 public class Tipos {
     public static void main(String[] args) throws Exception {
@@ -20,11 +21,11 @@ public class Tipos {
         System.out.println("Interger " + num3);
         System.out.println("Short " + num4);
 
-        // Tipos Primários
+        // Basico_Sintaxe.Tipos Primários
         float preco1 = 23.4f; // colocar f no final do numero
         double preco2 = 23.4;
 
-        // Tipos Não Primários
+        // Basico_Sintaxe.Tipos Não Primários
         Float preco3 = 44.5f; // colocar f no final do numero
         Double preco4 = 44.5;
 

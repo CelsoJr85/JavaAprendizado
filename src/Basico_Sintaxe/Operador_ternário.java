@@ -1,3 +1,5 @@
+package Basico_Sintaxe;
+
 public class Operador_ternário {
     public static void main(String[] args) {
         int valor = 3, numero;

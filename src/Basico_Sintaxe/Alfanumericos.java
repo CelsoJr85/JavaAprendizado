@@ -1,3 +1,5 @@
+package Basico_Sintaxe;
+
 public class Alfanumericos {
     public static void main(String[] args) {
         // tipos primitivos

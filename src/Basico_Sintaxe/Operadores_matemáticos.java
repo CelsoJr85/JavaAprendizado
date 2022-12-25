@@ -1,3 +1,5 @@
+package Basico_Sintaxe;
+
 public class Operadores_matemáticos {
     public static void main(String[] args) {
         int num1 = 5, num2 = 9, res;
