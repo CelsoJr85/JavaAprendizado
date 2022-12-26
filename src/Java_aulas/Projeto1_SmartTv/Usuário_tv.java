@@ -1,4 +1,4 @@
-package Projeto1_SmartTv;
+package Java_aulas.Projeto1_SmartTv;
 
 public class Usuário_tv {
     public static void main(String[] args) throws Exception {

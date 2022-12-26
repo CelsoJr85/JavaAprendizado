@@ -1,4 +1,4 @@
-package Projeto2_Banco;
+package Java_aulas.Projeto2_Banco;
 
 public class Cliente {
     String nome;

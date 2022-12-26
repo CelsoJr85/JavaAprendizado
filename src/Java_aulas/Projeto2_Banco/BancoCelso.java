@@ -1,7 +1,4 @@
-package Projeto2_Banco;
-
-import Projeto2_Banco.Cliente;
-import Projeto2_Banco.Conta;
+package Java_aulas.Projeto2_Banco;
 
 import java.util.Scanner;
 

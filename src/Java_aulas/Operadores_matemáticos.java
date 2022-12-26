@@ -1,4 +1,4 @@
-package Basico_Sintaxe;
+package Java_aulas;
 
 public class Operadores_matemáticos {
     public static void main(String[] args) {

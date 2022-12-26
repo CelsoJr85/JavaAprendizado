@@ -1,5 +1,5 @@
 // Switch
-package Basico_Sintaxe;
+package Java_aulas;
 
 public class Switch {
     public static void main(String[] args) {

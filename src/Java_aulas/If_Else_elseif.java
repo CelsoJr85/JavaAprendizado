@@ -1,5 +1,5 @@
 // If, Else, else if (elif no python)
-package Basico_Sintaxe;
+package Java_aulas;
 
 public class If_Else_elseif {
     public static void main(String[] args) {
